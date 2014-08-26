@@ -2,7 +2,7 @@
 
 <head><title>Hello, User</title></head>
 
-<body bgcolor="#ffffff">
+<body bgcolor="#ddddddd">
 <table border="0" width="700">
   <tr>
     <td width="150"> &nbsp; </td>
